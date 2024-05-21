@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes-Part-2", "Classes-P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch4studio", "..\..\..\studios\chapter4\studio\ch4studio\ch4studio.csproj", "{3BDFDDAC-79DF-49BE-9469-1F411A590DD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamShop", "IceCreamShop\IceCreamShop.csproj", "{398CFED3-AB06-49C4-AD55-56C94B727A49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{3BDFDDAC-79DF-49BE-9469-1F411A590DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BDFDDAC-79DF-49BE-9469-1F411A590DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BDFDDAC-79DF-49BE-9469-1F411A590DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398CFED3-AB06-49C4-AD55-56C94B727A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398CFED3-AB06-49C4-AD55-56C94B727A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398CFED3-AB06-49C4-AD55-56C94B727A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398CFED3-AB06-49C4-AD55-56C94B727A49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
