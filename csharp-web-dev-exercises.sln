@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsAndCollections"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes-Part-2", "Classes-Part-2\Classes-Part-2.csproj", "{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch4studio", "..\..\..\studios\chapter4\studio\ch4studio\ch4studio.csproj", "{3BDFDDAC-79DF-49BE-9469-1F411A590DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamShop", "IceCreamShop\IceCreamShop.csproj", "{398CFED3-AB06-49C4-AD55-56C94B727A49}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{D8AA87B7-EA1B-42DC-82B3-8C81640BCB95}"
 EndProject
 Global
@@ -76,6 +80,14 @@ Global
 		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BDFDDAC-79DF-49BE-9469-1F411A590DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDFDDAC-79DF-49BE-9469-1F411A590DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDFDDAC-79DF-49BE-9469-1F411A590DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDFDDAC-79DF-49BE-9469-1F411A590DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398CFED3-AB06-49C4-AD55-56C94B727A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398CFED3-AB06-49C4-AD55-56C94B727A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398CFED3-AB06-49C4-AD55-56C94B727A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398CFED3-AB06-49C4-AD55-56C94B727A49}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D8AA87B7-EA1B-42DC-82B3-8C81640BCB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D8AA87B7-EA1B-42DC-82B3-8C81640BCB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8AA87B7-EA1B-42DC-82B3-8C81640BCB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
